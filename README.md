@@ -12,6 +12,10 @@ Note how the the corners are processed :)
 
 ![alt text][example2]
 
+## Runn the code
 
+'''
+python3 square.py
+'''
 [example1]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example1.png "Visual example"
 [example2]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example2.png "Visual example 2"
