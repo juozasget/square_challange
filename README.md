@@ -10,4 +10,4 @@ Visual representation of how the count_rooms loop runs:
 * Inspiration
 * etc
 
-[logo]: https://github.com/juozasget/square_challange/img/example.png "Visual example"
+[logo]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example.png "Visual example"

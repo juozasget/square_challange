@@ -25,7 +25,10 @@ def run_script(number):
 
 def print_image():
     # visualize the results
+    print("Initial list:")
+    print(LIST)
     LIST.sort()
+    print("Sorted list:")
     print(LIST)
     print()
     string = ""
