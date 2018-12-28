@@ -12,8 +12,13 @@ Note how the the corners are processed :)
 
 ![alt text][example2]
 
-[example1]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example1.png "Visual example"
+Examples with N=2, N=3, N=5:
+
+![alt text][example3]
+
+[example1]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example1.png "Visual example 1"
 [example2]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example2.png "Visual example 2"
+[example2]: https://raw.githubusercontent.com/juozasget/square_challange/master/img/example3.png "Visual example 3"
 
 ## Run the code
 
